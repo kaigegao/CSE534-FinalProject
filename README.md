@@ -14,4 +14,5 @@ python3 evaluate.py --config configs/mpiigaze/lenet_eval.yaml
 
 ## Note:
 In the config file, there are many parameters can be changed.  
-If you want to train all datasets about 15 persons, use scripts/run_all_mpiigaze_lenet.sh.
+If you want to train all datasets about 15 persons, use scripts/run_all_mpiigaze_lenet.sh.  
+For the Demo Video, because I only want this to be a demo, so I just let it trains for one epoch.
